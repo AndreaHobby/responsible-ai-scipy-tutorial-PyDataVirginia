@@ -45,7 +45,7 @@
 │   └── tutorial_3_explainability.ipynb          # Model transparency
 ├── data/
 │   ├── case_data.csv                            # Synthetic healthcare data
-│   └── data_dictionary.md                       # Variable descriptions
+│   └── datainfo.md                       # Variable descriptions
 ├── slides/
 │   └── PyData_Virginia_2025_Slides.pdf          # Presentation slides
 ├── requirements.txt                              # Python dependencies

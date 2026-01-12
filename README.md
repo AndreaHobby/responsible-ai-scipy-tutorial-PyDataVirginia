@@ -138,7 +138,7 @@ If you use or reference this tutorial in your work:
 ```
 Hobby, A. (2025). Responsible AI Using SciPy. 
 Tutorial presented at PyData Virginia 2025, Charlottesville, VA.
-https://github.com/AndreaHobby/PyDataVirginia
+https://github.com/AndreaHobby/responsible-ai-scipy-tutorial-PyDataVirginia
 ```
 
 ## License

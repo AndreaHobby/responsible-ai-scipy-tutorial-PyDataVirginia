@@ -65,8 +65,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/AndreaHobby/PyDataVirginia.git
-cd PyDataVirginia
+git clone https://github.com/AndreaHobby/PyDataVirginia](https://github.com/AndreaHobby/responsible-ai-scipy-tutorial-PyDataVirginia.git
+cd responsible-ai-scipy-tutorial-PyDataVirginia
 
 # Install dependencies
 pip install -r requirements.txt

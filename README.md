@@ -164,7 +164,6 @@ Thanks to PyData Virginia organizers and participants for the opportunity to sha
 
 **Healthcare AI:**
 - [FDA's Proposed Regulatory Framework for AI/ML](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
-- [AMA Principles for AI in Healthcare](https://www.ama-assn.org/practice-management/digital/augmented-intelligence-ai)
 
 ---
 
